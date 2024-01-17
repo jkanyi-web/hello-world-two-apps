@@ -71,6 +71,8 @@ To get a local copy up and running, follow these steps.
 - Clone it as `git@github.com:jkanyi-web/hello-world-two-apps.git` on a Terminal
 - Change directory to it by `cd hello-react-frontend`
 
+- To get the Rails back-end, follow this link:
+https://github.com/jkanyi-web/hello-world-two-apps/tree/full/hello-rails-backend
 
 ### Prerequisites
 
