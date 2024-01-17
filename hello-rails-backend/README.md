@@ -71,6 +71,9 @@ Clone this repository to your desired folder:
 git clone git@github.com:jkanyi-web/hello-world-two-apps.git
 ```
 
+To get the react front-end, visit:
+https://github.com/jkanyi-web/hello-world-two-apps/tree/full/hello-react-frontend
+
 ### Prerequisites
 
 In order to run this project you need:
